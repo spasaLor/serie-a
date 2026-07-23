@@ -46,7 +46,6 @@ export default function ItalyMap({
       ];
     });
     return o;
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [centers]);
 
   const zoomTransform = useMemo(() => {

@@ -56,7 +56,7 @@ export const STADIUMS = [
     surface: "Ibrido",
     dimensions: "105 x 66m",
     fact: "Lo Stadio Giuseppe Sinigaglia di Como sorge in una posizione di rara bellezza paesaggistica, affacciandosi direttamente sulle sponde del lago. Casa del Como 1907, l'impianto unisce il fascino architettonico alle moderne esigenze di accoglienza per le gare di Serie A. La vicinanza all'acqua e la vista panoramica sulle montagne circostanti rendono ogni incontro un evento visivamente unico sia per i tifosi sia per i visitatori. Oltre al calcio, la struttura è stata sede di manifestazioni di atletica e concerti di grande rilievo. Il picco massimo di presenze registrato sugli spalti del Sinigaglia risale alla gara di campionato disputata contro la Juventus, quando l'impianto vide la partecipazione di oltre 22.000 spettatori. Una gemma sportiva immersa nel territorio comasco.",
-    imageUrl: "/como.webp",
+    imageUrl: "/como.jpg",
   },
   {
     id: "monza",
